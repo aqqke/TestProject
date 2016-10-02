@@ -2,5 +2,8 @@
 
 void main()
 {
+	
+	int a= 0;
 	printf("GGGGG");
+	
 }
